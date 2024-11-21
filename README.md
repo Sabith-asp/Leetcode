@@ -10,4 +10,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2752-sum-multiples](https://github.com/Sabith-asp/Leetcode/tree/master/2752-sum-multiples) |
 <!---LeetCode Topics End-->
