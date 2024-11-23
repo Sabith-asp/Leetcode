@@ -3,11 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let result=0
-    nums.forEach((num)=>{
-        if(nums.indexOf(num)===nums.lastIndexOf(num)){
-            result=num
+    for(i=0;i<nums.length;i++){
+        if(nums.indexOf(nums[i])===nums.lastIndexOf(nums[i])){
+            return nums[i]
         }
-    })
-    return result
+    }
 };
