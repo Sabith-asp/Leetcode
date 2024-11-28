@@ -5,14 +5,14 @@
  */
 var search = function(nums, target) {
 
-    // for(const num of nums){
+    for(const num of nums){
  
-    //         return nums.indexOf(target)
-    // }
-    for(i=0;i<nums.length;i++){
-        if(nums[i]===target){
-            return i
-        } 
+            return nums.indexOf(target)
     }
-    return -1
+    // for(i=0;i<nums.length;i++){
+    //     if(nums[i]===target){
+    //         return i
+    //     } 
+    // }
+    // return -1
 };
