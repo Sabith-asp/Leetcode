@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sabith-asp/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sabith-asp/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2881-split-strings-by-separator](https://github.com/Sabith-asp/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sabith-asp/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2881-split-strings-by-separator](https://github.com/Sabith-asp/Leetcode/tree/master/2881-split-strings-by-separator) |
 ## Hash Table
