@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sabith-asp/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
+| [1319-unique-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2881-split-strings-by-separator](https://github.com/Sabith-asp/Leetcode/tree/master/2881-split-strings-by-separator) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Sabith-asp/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
+| [1319-unique-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Binary Search
 |  |
