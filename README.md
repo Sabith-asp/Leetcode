@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sabith-asp/Leetcode/tree/master/0050-powx-n) |
 | [2752-sum-multiples](https://github.com/Sabith-asp/Leetcode/tree/master/2752-sum-multiples) |
 ## Array
 |  |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sabith-asp/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sabith-asp/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
