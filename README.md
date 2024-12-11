@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sabith-asp/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sabith-asp/Leetcode/tree/master/0066-plus-one) |
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Sabith-asp/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Sabith-asp/Leetcode/tree/master/2752-sum-multiples) |
 ## Array
 |  |
