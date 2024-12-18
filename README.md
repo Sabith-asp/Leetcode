@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sabith-asp/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Sabith-asp/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sabith-asp/Leetcode/tree/master/0268-missing-number) |
+| [2383-add-two-integers](https://github.com/Sabith-asp/Leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sabith-asp/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
