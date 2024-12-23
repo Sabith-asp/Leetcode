@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Sabith-asp/Leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/Sabith-asp/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1970-sorting-the-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sabith-asp/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sabith-asp/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
