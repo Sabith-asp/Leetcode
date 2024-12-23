@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Sabith-asp/Leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/Sabith-asp/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sabith-asp/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sabith-asp/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Math
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
