@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sabith-asp/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/Sabith-asp/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Sabith-asp/Leetcode/tree/master/3194-find-words-containing-character) |
