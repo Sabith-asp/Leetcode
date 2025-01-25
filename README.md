@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Sabith-asp/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
 ## Heap (Priority Queue)
 |  |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sabith-asp/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
