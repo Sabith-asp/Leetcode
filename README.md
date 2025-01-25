@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
 | [0742-to-lower-case](https://github.com/Sabith-asp/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sabith-asp/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1274-number-of-days-between-two-dates](https://github.com/Sabith-asp/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1449-print-words-vertically](https://github.com/Sabith-asp/Leetcode/tree/master/1449-print-words-vertically) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1651-shuffle-string](https://github.com/Sabith-asp/Leetcode/tree/master/1651-shuffle-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sabith-asp/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sabith-asp/Leetcode/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/Sabith-asp/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1274-number-of-days-between-two-dates](https://github.com/Sabith-asp/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [2383-add-two-integers](https://github.com/Sabith-asp/Leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Sabith-asp/Leetcode/tree/master/2491-smallest-even-multiple) |
