@@ -247,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sabith-asp/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Sabith-asp/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
