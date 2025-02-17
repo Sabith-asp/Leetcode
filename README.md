@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
 | [0941-sort-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Sabith-asp/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Sabith-asp/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1449-print-words-vertically](https://github.com/Sabith-asp/Leetcode/tree/master/1449-print-words-vertically) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sabith-asp/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Sabith-asp/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sabith-asp/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1970-sorting-the-sentence) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/Sabith-asp/Leetcode/tree/master/0596-classes-more-than-5-students) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Sabith-asp/Leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sabith-asp/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Sabith-asp/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
