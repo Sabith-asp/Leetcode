@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Sabith-asp/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sabith-asp/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Sabith-asp/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2556-convert-the-temperature](https://github.com/Sabith-asp/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Sabith-asp/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sabith-asp/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sabith-asp/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2881-split-strings-by-separator](https://github.com/Sabith-asp/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Sabith-asp/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sabith-asp/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Trie
 |  |
 | ------- |
