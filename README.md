@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Sabith-asp/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0742-to-lower-case](https://github.com/Sabith-asp/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Sabith-asp/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sabith-asp/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sabith-asp/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1449-print-words-vertically](https://github.com/Sabith-asp/Leetcode/tree/master/1449-print-words-vertically) |
 | [1524-string-matching-in-an-array](https://github.com/Sabith-asp/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sabith-asp/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Sabith-asp/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sabith-asp/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sabith-asp/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Sabith-asp/Leetcode/tree/master/1168-duplicate-zeros) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Sabith-asp/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Sabith-asp/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0841-shortest-distance-to-a-character](https://github.com/Sabith-asp/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sabith-asp/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Sabith-asp/Leetcode/tree/master/1137-height-checker) |
