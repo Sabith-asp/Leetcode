@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sabith-asp/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/Sabith-asp/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Sabith-asp/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/Sabith-asp/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sabith-asp/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1944-truncate-sentence) |
 | [2058-concatenation-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -324,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Sabith-asp/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Sabith-asp/Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
