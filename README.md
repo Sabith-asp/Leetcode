@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/Sabith-asp/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1944-truncate-sentence) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Sabith-asp/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sabith-asp/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2058-concatenation-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sabith-asp/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sabith-asp/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sabith-asp/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/Sabith-asp/Leetcode/tree/master/3226-minimum-number-game) |
