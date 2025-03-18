@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/Sabith-asp/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Sabith-asp/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Sabith-asp/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Sabith-asp/Leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Sabith-asp/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Sabith-asp/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Sabith-asp/Leetcode/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/Sabith-asp/Leetcode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2058-concatenation-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sabith-asp/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sabith-asp/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sabith-asp/Leetcode/tree/master/0258-add-digits) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Sabith-asp/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Sabith-asp/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Sabith-asp/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Queue
