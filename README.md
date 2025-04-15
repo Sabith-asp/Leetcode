@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Sabith-asp/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Sabith-asp/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sabith-asp/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Sabith-asp/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/Sabith-asp/Leetcode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sabith-asp/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Sabith-asp/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Sabith-asp/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Sabith-asp/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Sabith-asp/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/Sabith-asp/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
