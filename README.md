@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/Sabith-asp/Leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Sabith-asp/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Sabith-asp/Leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/Sabith-asp/Leetcode/tree/master/0739-daily-temperatures) |
 | [0841-shortest-distance-to-a-character](https://github.com/Sabith-asp/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Sabith-asp/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sabith-asp/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Sabith-asp/Leetcode/tree/master/0739-daily-temperatures) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## String Matching
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sabith-asp/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Sabith-asp/Leetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
