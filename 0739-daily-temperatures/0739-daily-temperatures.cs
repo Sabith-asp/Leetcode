@@ -15,7 +15,7 @@ public class Solution {
                     result[i] = 0;
                     break;
                 } else {
-                    j += result[j]; // skip ahead using previous result
+                    j += result[j];
                 }
             }
         }
