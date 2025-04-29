@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Sabith-asp/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sabith-asp/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Sabith-asp/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2365-percentage-of-letter-in-string](https://github.com/Sabith-asp/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Sabith-asp/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sabith-asp/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Sabith-asp/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Sabith-asp/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3778-transform-array-by-parity](https://github.com/Sabith-asp/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Trie
