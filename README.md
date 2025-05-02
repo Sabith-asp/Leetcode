@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Sabith-asp/Leetcode/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sabith-asp/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Sabith-asp/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Sabith-asp/Leetcode/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/Sabith-asp/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Sabith-asp/Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Sabith-asp/Leetcode/tree/master/0596-classes-more-than-5-students) |
