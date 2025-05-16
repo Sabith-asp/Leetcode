@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Sabith-asp/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sabith-asp/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sabith-asp/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
+| [1877-find-followers-count](https://github.com/Sabith-asp/Leetcode/tree/master/1877-find-followers-count) |
 ## Counting Sort
 |  |
 | ------- |
