@@ -1,9 +1,11 @@
 public class Solution {
     public int DistributeCandies(int[] candyType) {
-        List<int> res=candyType.ToList().Distinct().ToList();
-        if(res.Count<=candyType.Length/2){
-            return res.Count;
+        List<int> res=candyType.Distinct().ToList();
+        int nums=res.Count;
+        int max=candyType.Length/2;
+        if(nums<=max){
+            return nums;
         }
-        return candyType.Length/2;
+        return max;
     }
 }
