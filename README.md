@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/Sabith-asp/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Sabith-asp/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Sabith-asp/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Sabith-asp/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Sabith-asp/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2502-sort-the-people](https://github.com/Sabith-asp/Leetcode/tree/master/2502-sort-the-people) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Sabith-asp/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Sabith-asp/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sabith-asp/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sabith-asp/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Sabith-asp/Leetcode/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Sabith-asp/Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Sabith-asp/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
