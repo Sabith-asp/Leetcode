@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sabith-asp/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sabith-asp/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Sabith-asp/Leetcode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Sabith-asp/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/Sabith-asp/Leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Sabith-asp/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sabith-asp/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Sabith-asp/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sabith-asp/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Sabith-asp/Leetcode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Sabith-asp/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1086-divisor-game](https://github.com/Sabith-asp/Leetcode/tree/master/1086-divisor-game) |
 | [1274-number-of-days-between-two-dates](https://github.com/Sabith-asp/Leetcode/tree/master/1274-number-of-days-between-two-dates) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sabith-asp/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sabith-asp/Leetcode/tree/master/0412-fizz-buzz) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Sabith-asp/Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1310-watering-plants](https://github.com/Sabith-asp/Leetcode/tree/master/1310-watering-plants) |
 | [1449-print-words-vertically](https://github.com/Sabith-asp/Leetcode/tree/master/1449-print-words-vertically) |
